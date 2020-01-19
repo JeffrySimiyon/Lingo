@@ -1,0 +1,121 @@
+body {
+    background-color:yellow;
+}
+
+.topMain {
+    margin:0 auto;
+    width:700px;
+    height:200px;
+    background-color:blue;
+}
+
+.bottomMain {
+    margin:0 auto;
+    width:700px;
+    height:150px;
+    background-color: blue;
+    position: relative;
+}
+
+#word {
+    margin-top:30px;
+    margin-left: 30px;
+    margin-right:131px;
+    display:inline-block;
+    font-size:22px;
+}
+
+#letters {
+    margin-left:30px;
+    margin-right:10px;
+    display:inline-block;
+    font-size:22px;
+}
+
+.inputWord {
+    border: 0.1px solid #A9A9A9;
+    margin-top:10px;
+    display:inline-block;
+    background-color:white;
+    height:40.2px;
+    width:371px;
+}
+
+#ownInput {
+    position:relative;
+    display:inline-block;
+    margin-right:50px;
+    font-size:30px;
+}
+#doel {
+    margin-left:20px;
+    font-size:30px;
+    display:inline;
+}
+
+button {
+    margin-left:260px;
+    padding:5px 15px;
+}
+
+#plek1 {
+    width:70px;
+    height:70px;
+    display:inline-block;
+    margin-top:30px;
+    margin-left:90px;
+    margin-right:20px;
+    border: 1px solid black;
+    line-height:80px;
+    text-align:center;  
+    font-size:22px;
+    background-color:white;
+}
+
+#plek2 {
+    width:70px;
+    height:70px;
+    display:inline-block;
+    margin-right:20px;
+    border: 1px solid black;
+    line-height:80px; 
+    text-align:center;
+    font-size:22px; 
+    background-color:white;
+}
+
+#plek3 {
+    width:70px;
+    height:70px;
+    display:inline-block;
+    margin-right:20px;
+    border: 1px solid black;
+    line-height:80px; 
+    text-align:center;
+    font-size:22px; 
+    background-color:white;
+}
+
+#plek4 {
+    width:70px;
+    height:70px;
+    display:inline-block;
+    margin-right:20px;
+    border: 1px solid black;
+    line-height:80px; 
+    text-align:center;
+    font-size:22px; 
+    background-color:white;
+}
+
+#plek5 {
+    width:70px;
+    height:70px;
+    display:inline-block;
+    margin-right:20px;
+    border: 1px solid black;
+    line-height:80px; 
+    text-align:center;
+    font-size:22px; 
+    background-color:white;
+}
